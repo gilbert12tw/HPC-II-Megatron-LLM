@@ -1,0 +1,5 @@
+logs/*
+test_*
+*_tests.sh
+data_cache
+checkpoints
